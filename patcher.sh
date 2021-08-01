@@ -1,3 +1,4 @@
+#!/bin/bash
 # Prerequisites: wget, sudo
 
 echo "Downloading ProtOS stuff..."
@@ -9,7 +10,7 @@ chmod +x neofetch
 
 echo "Checking for neofetch..."
 if [ -f "/usr/bin/neofetch" ]; then
-  echo " ===> Backing it up...
+  echo " ===> Backing it up..."
   sudo cp /usr/bin/neofetch /usr/bin/neofetch-old
 fi
 
