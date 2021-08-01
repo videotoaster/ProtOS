@@ -1,0 +1,7 @@
+NAME=ProtOS
+VERSION="1.0"
+ID=ProtOS
+VERSION_ID=1
+VERSION_CODENAME="Nano"
+PRETTY_NAME="ProtOS"
+HOME_URL="https://github.com/videotoaster/ProtOS"
